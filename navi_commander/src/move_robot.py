@@ -56,6 +56,6 @@ class NumberCounter:
             
                  
 if __name__ == '__main__':
-          rospy.init_node('movetable', anonymous=True)
+          rospy.init_node('move_table', anonymous=True)
           NumberCounter()    
           rospy.spin()
