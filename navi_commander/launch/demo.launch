@@ -1,0 +1,5 @@
+<launch> 
+    <include file="$(find turtlebot3_gazebo)/launch/turtlebot3_world.launch" /> 
+    <include file="$(find turtlebot3_navigation)/launch/turtlebot3_navigation.launch" /> 
+    <include file="$(find navi_commander)/launch/move_table.launch" /> 
+</launch>

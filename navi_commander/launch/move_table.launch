@@ -1,0 +1,5 @@
+<launch>
+  
+  <node name="movetable" pkg="navi_commander" type="movegui.py" output="screen"/>
+  <node name="ros_gui" pkg="navi_commander" type="moverobot.py" output="screen"/>
+</launch>
