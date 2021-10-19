@@ -28,3 +28,5 @@ Click on the following image to see the video
 
 
 [![Introduction Video](https://img.youtube.com/vi/XMKM8N5_bg8/0.jpg)](https://youtu.be/XMKM8N5_bg8)
+# Acknowledgment
+[Lentin Joseph](https://lentinjoseph.com/) and  [learning robotics using python by lentin joseph](https://www.amazon.in/Learning-Robotics-Python-Lentin-Joseph/dp/1783287535)
