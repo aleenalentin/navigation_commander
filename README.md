@@ -14,6 +14,9 @@ After installing, you can follow the step to build this project
 ```bash
 git clone https://github.com/aleenalentin/navigation_commander.git
 
-open a new terminal and type : roslaunch navi_commander demo.launch
+```
+open a new terminal and type 
+```bash
+ roslaunch navi_commander demo.launch
 
 ```
