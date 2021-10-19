@@ -1,6 +1,8 @@
 # navigation_commander
 Navigation_Commander is an integration of software packages for performing autonomous navigation. Here we use TURTLEBOT3_MODEL as waffle_pi, simulation world as turtlebot3_world.launch from  turtlebot3_gazebo package and Navigation node as turtlebot3_navigation.launch from turtlebot3_navigation package.
+
 First step is to build a GUI to control the robot. Building a GUI that can act as a trigger for the underlying ROS command. Instead of running all the commands on the Terminal, the user can work with GUI buttons.
+
 The GUI is typically designed for a hotel room of nine tables. The user can set a table position in the map of the hotel room and command the robot to go to a particular table to deliver the food. After delivering the food, the user can command the robot to go to its home position. 
 
 # Prerequisites
@@ -29,4 +31,5 @@ Click on the following image to see the video
 
 [![Introduction Video](https://img.youtube.com/vi/XMKM8N5_bg8/0.jpg)](https://youtu.be/XMKM8N5_bg8)
 # Acknowledgment
-  [learning robotics using python by lentin joseph](https://www.amazon.in/Learning-Robotics-Python-Lentin-Joseph/dp/1783287535)
+
+*  [Learning Robotics using Python by Lentin Joseph](https://www.amazon.in/Learning-Robotics-Python-Lentin-Joseph/dp/1783287535)
