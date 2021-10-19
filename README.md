@@ -8,3 +8,12 @@ Navigation_Commander is an integration of software packages for performing auton
 * [Turtlebot3]( https://automaticaddison.com/how-to-launch-the-turtlebot3-simulation-with-ros/)
 
  
+ # How to Build
+
+After installing, you can follow the step to build this project
+```bash
+git clone https://github.com/aleenalentin/navigation_commander.git
+
+open a new terminal and type : roslaunch navi_commander demo.launch
+
+```
