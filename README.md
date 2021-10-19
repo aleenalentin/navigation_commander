@@ -20,3 +20,8 @@ open a new terminal and type
  roslaunch navi_commander demo.launch
 
 ```
+# Demo 
+
+Click on the following image to see the video
+
+[![Introduction Video]](https://youtu.be/XMKM8N5_bg8)
