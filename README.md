@@ -24,4 +24,5 @@ open a new terminal and type
 
 Click on the following image to see the video
 
-[![Introduction Video]](https://youtu.be/XMKM8N5_bg8)
+
+[![Introduction Video](https://img.youtube.com/vi/XMKM8N5_bg8/0.jpg)](https://youtu.be/XMKM8N5_bg8)
